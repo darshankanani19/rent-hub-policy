@@ -1,16 +1,16 @@
-# Privacy Policy for Rent Hub
+# Privacy Policy for Property Rental
 
-**Last Updated:** May 29, 2026
+**Last Updated:** June 1, 2026
 
-Welcome to Rent Hub. We respect your privacy and are committed to protecting the personal data of our users. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+Welcome to Property Rental. We respect your privacy and are committed to protecting the personal data of our users. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
 
 ## 1. Introduction
 
-Welcome to Rent Hub. We respect your privacy and are committed to protecting the personal data of our users. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+Welcome to Property Rental. We respect your privacy and are committed to protecting the personal data of our users. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
 
 ## 2. Information We Collect
 
-We may collect information about you in several ways when you use the Rent Hub application:
+We may collect information about you in several ways when you use the Property Rental application:
 
 - **Account & Registration Data:** Personal details such as your name, email address, phone number, and profile image when you register for an account.
 - **Location Information:** With your permission, we collect precise or approximate geo-location details from your mobile device to show properties near you and enable map search features.
@@ -29,7 +29,7 @@ Having accurate information about you permits us to provide you with a smooth, e
 
 ## 4. UGC & Moderation Policy
 
-Rent Hub hosts user-generated property listings and chat messages. In compliance with Google Play Developer Policies:
+Property Rental hosts user-generated property listings and chat messages. In compliance with Google Play Developer Policies:
 
 - We enforce a zero-tolerance policy for objectionable or abusive content.
 - Users can report listings or profiles that violate our guidelines.
