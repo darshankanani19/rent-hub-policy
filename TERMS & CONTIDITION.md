@@ -33,4 +33,4 @@ We may update these terms occasionally. Continued use of the app after changes i
 
 ## 8. Contact Us
 For any questions regarding these Terms, please contact us at:
-**Email:** darshankj129@gmail.com
+**Email:** support@joflee.com
