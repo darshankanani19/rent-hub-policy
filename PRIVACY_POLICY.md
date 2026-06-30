@@ -46,4 +46,4 @@ If you registered for Property Rental using Facebook Login and wish to remove yo
 
 ## 7. Contact Us
 If you have questions about this Privacy Policy or wish to manually request data deletion, please contact us at:
-**Email:** darshankj129@gmail.com
+**Email:** support@joflee.com
